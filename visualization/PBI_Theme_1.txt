@@ -1,1 +1,22 @@
-#0D9D9F
+#02284e - Indigo Black - bg
+
+Answers:
+1 - Argentinian Blue - #70B0E0
+2 - Non Photo Blue - #8BD0DD
+3 - UCLA Blue - #2878BD
+4 - Jungle Green - #0EB194
+5 - Pine Green - #108372
+6 - Tiffany Blue - #7fcecd
+7 - Aquamarine - #AAF0D1
+8 - Caribbean Current - #05696B
+9 - Mint Cream - #E5F1EE
+10 - Blue Grey - #6F9EDB
+
+Count of Sent (by month):
+Midnight Green - #035D67
+
+Count of Responded (by month):
+Emerald - #3CDB83
+
+(((Time Line Graph/ Slider Line:
+Vista Blue - #8AE9B4)))
